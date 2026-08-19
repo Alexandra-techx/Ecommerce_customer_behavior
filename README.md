@@ -2,6 +2,8 @@
 
 Dashboard Power BI pentru analiza comportamentului clienților unui magazin online: venituri pe categorii de produse, cheltuieli medii pe grupe de vârstă, rata clienților recurenți și evoluția zilnică a veniturilor.
 
+![Dashboard overview](./dashboard-overview.png)
+
 ## Fișiere din proiect
 
 | Fișier | Descriere |
